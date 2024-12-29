@@ -72,12 +72,11 @@ Developed by:Yugabharathi .T RegisterNumber:24900006
 
 **RTL Schematic**
 
-![394198583-f40e2a4e-a6c8-4bd5-8ec6-4c5f9dfa8c43](https://github.com/user-attachments/assets/7bc9c1a0-0e3f-496d-9d4f-840c2d9b8a5f)
-![394198783-aec2a8f7-a4a3-4e77-8392-db1220f583b4](https://github.com/user-attachments/assets/b5339af5-c6c0-430e-87f3-4635306bb9d5)
+![Screenshot 2024-12-29 173700](https://github.com/user-attachments/assets/20f7778b-347f-4865-82d1-6b905fe69847)
 
 **Output/TIMING Waveform**
-![392015423-bd3bffbb-9acd-4c36-ac75-bc913fca618b](https://github.com/user-attachments/assets/94129fcf-f1be-44bc-b135-12cdef79a02c)
-![392016705-c921e6c7-cf3b-48db-85f9-c97b50ed478c](https://github.com/user-attachments/assets/82389943-e071-44d0-aa62-ba13c786eda9)
+
+![Screenshot 2024-12-29 173858](https://github.com/user-attachments/assets/1699fa14-1079-408d-8085-45d5e75c3d95)
 
 **Result:**
 Thus the half adder and half subtractor are designed and their truth table is verified.
