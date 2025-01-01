@@ -52,19 +52,15 @@ Figure -02 HALF Subtractor
 
 **Program:**
 ```
-module HALFADDER(a,b,sum,carry);
+module exp3(a,b,cy,sm,df,bo); 
 input a,b;
-output sum,carry; 
-assign sum = a^b;
-assign carry = a & b;
-endmodule
+ output sm,cy,df,bo; 
+xor(sm,a,b); 
+and(cy,a,b); 
+xor(df,a,b); 
+and(bo,~a,b); 
+endmodule 
 
-module SUB(a,b,D,Bo);
-input a,b;
-output D,Bo; 
-assign D = a ^ b;
-assign Bo = ~a & b;
-endmodule
 ```
 
 
